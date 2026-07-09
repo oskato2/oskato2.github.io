@@ -11,6 +11,7 @@ function FakeTerminal() {
   const bottomRef = useRef(null)
 
   useEffect(() => {
+    if (history.length <= 1) return
     bottomRef.current?.scrollIntoView({ behavior: 'smooth' })
   }, [history])
 
