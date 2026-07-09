@@ -43,7 +43,7 @@ export default function Header() {
           {i18n.language === 'es' ? 'EN' : 'ES'}
         </button>
         <a
-          href={i18n.language === 'es' ? '/portafolio/cvs/CV-Oscar-ES.pdf' : '/portafolio/cvs/CV-Oscar-EN.pdf'}
+          href={i18n.language === 'es' ? '/cvs/CV-Oscar-ES.pdf' : '/cvs/CV-Oscar-EN.pdf'}
           download
           style={{ background: 'none', border: '1px solid #00ff88', color: '#00ff88', padding: '0.25rem 0.75rem', borderRadius: '4px', textDecoration: 'none', fontSize: '0.85rem', whiteSpace: 'nowrap' }}
         >

@@ -24,7 +24,7 @@ export default function Hero() {
       </p>
       <div style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap', justifyContent: 'center' }}>
         <a
-          href="/portafolio/cvs/CV-Oscar-ES.pdf"
+          href="/cvs/CV-Oscar-ES.pdf"
           download
           style={{ padding: '0.75rem 1.5rem', border: '1px solid #00ff88', color: '#00ff88', borderRadius: '6px', textDecoration: 'none', fontWeight: 500 }}
         >
