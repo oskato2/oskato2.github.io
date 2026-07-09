@@ -37,7 +37,7 @@ export default function Hero() {
           {t('hero.ctaContact')}
         </a>
       </div>
-      <p style={{ color: '#2a2a4a', marginTop: '3rem', fontSize: '0.8rem' }}>
+      <p style={{ color: '#e2e8f0', marginTop: '3rem', fontSize: '0.8rem' }}>
         📍 {t('hero.location')}
       </p>
     </div>
