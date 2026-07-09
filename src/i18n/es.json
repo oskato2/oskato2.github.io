@@ -1,0 +1,172 @@
+{
+  "nav": {
+    "about": "Sobre mí",
+    "skills": "Habilidades",
+    "experience": "Experiencia",
+    "projects": "Proyectos",
+    "achievements": "Logros",
+    "certifications": "Certificados",
+    "demos": "Demos",
+    "contact": "Contacto",
+    "downloadCV": "Descargar CV"
+  },
+  "hero": {
+    "greeting": "Hola, soy",
+    "name": "Oscar Fabián Ruiz de Chávez",
+    "taglines": [
+      "Full Stack Developer",
+      "Ingeniero de Sistemas",
+      "Automatización con IA",
+      "Angular + React + .NET",
+      "6 años construyendo soluciones"
+    ],
+    "intro": "Construyo aplicaciones web robustas y soluciones de automatización inteligente. Especializado en Angular, React y .NET, con experiencia en IA aplicada a procesos reales.",
+    "ctaCV": "Descargar CV",
+    "ctaContact": "Contáctame",
+    "location": "Guanajuato, México",
+    "scrollDown": "Scroll"
+  },
+  "about": {
+    "title": "Sobre mí",
+    "bio": "Soy un Ingeniero de Desarrollo de Sistemas con más de 6 años de experiencia construyendo aplicaciones web para el sector público y privado. He trabajado en el IEEG desarrollando sistemas electorales críticos y en Neoris contribuyendo al proyecto global Cemex Go. Me apasiona la automatización inteligente y el uso de LLMs locales para resolver problemas reales.",
+    "stats": {
+      "experience": "años de exp.",
+      "experienceVal": "6+",
+      "companies": "empresas",
+      "companiesVal": "2",
+      "projects": "proyectos",
+      "projectsVal": "10+",
+      "languages": "idiomas",
+      "languagesVal": "2"
+    },
+    "photoAlt": "Oscar Fabián"
+  },
+  "skills": {
+    "title": "Habilidades",
+    "subtitle": "Tecnologías que domino",
+    "categories": {
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "databases": "Bases de datos",
+      "cloud": "Cloud & DevOps",
+      "ai": "IA & Automatización",
+      "tools": "Herramientas"
+    }
+  },
+  "experience": {
+    "title": "Experiencia",
+    "subtitle": "Mi trayectoria profesional",
+    "present": "Presente",
+    "ieeg": {
+      "role": "Ingeniero de Desarrollo de Sistemas",
+      "company": "Instituto Electoral del Estado de Guanajuato",
+      "companyShort": "IEEG",
+      "period": "2020 — Presente",
+      "location": "Guanajuato, México",
+      "description": "Desarrollo de aplicaciones web para procesos electorales y administrativos. Automatización de flujos con IA local, visualización de datos en Unity e infraestructura en AWS.",
+      "highlights": [
+        "Automatización de correos con IA (Ollama + spaCy + generación de tickets)",
+        "Aplicaciones de visualización de datos en Unity",
+        "Desarrollo con Angular, React, .NET C#, TypeScript",
+        "Bases de datos SQL Server, PostgreSQL, MariaDB",
+        "Infraestructura AWS EC2, Docker, Linux, Nginx"
+      ]
+    },
+    "freelance": {
+      "role": "Desarrollador Web Freelance",
+      "company": "Freelance",
+      "companyShort": "Freelance",
+      "period": "2016 — 2019",
+      "location": "México",
+      "description": "Desarrollo y mantenimiento de sitios web para clientes independientes, con enfoque en PHP y WordPress.",
+      "highlights": [
+        "Desarrollo y mantenimiento de sitios web basados en PHP y WordPress",
+        "Implementación de nuevas funcionalidades y personalización de temas y plugins",
+        "Administración y optimización de servicios web para mejorar rendimiento y disponibilidad",
+        "Corrección de errores, actualizaciones de seguridad y soporte técnico a clientes"
+      ]
+    },
+    "neoris": {
+      "role": "Desarrollador Frontend Senior",
+      "company": "Neoris — Proyecto Cemex Go",
+      "companyShort": "Neoris",
+      "period": "2024 — 2025",
+      "location": "Remoto / México",
+      "description": "Desarrollo de componentes y librerías Angular reutilizables para la plataforma global Cemex Go. Integración de REST APIs, Service Workers y contribución al chatbot Olivia.",
+      "highlights": [
+        "Componentes y librerías Angular reutilizables a escala global",
+        "Integración de REST APIs con HTTP Client avanzado",
+        "Service Workers y funcionalidades PWA",
+        "Chatbot Olivia con NLP integrado",
+        "Trabajo en equipo internacional con Git, Postman, Jira"
+      ]
+    }
+  },
+  "projects": {
+    "title": "Proyectos",
+    "subtitle": "Lo que he construido",
+    "viewDemo": "Ver demo",
+    "emailAI": {
+      "title": "Automatización de Correos con IA",
+      "description": "Pipeline de automatización que procesa correos usando un LLM local (Ollama), extrae entidades con spaCy y genera tickets de soporte automáticamente.",
+      "tags": ["Python", "Ollama", "spaCy", "LLM", "Automatización"]
+    },
+    "unityViz": {
+      "title": "Visualización de Datos en Unity",
+      "description": "Aplicaciones interactivas de visualización de datos electorales construidas en Unity para el IEEG. Gráficas dinámicas y reportes visuales en tiempo real.",
+      "tags": ["Unity", "C#", "Data Viz", "IEEG"]
+    },
+    "ieegApps": {
+      "title": "Aplicaciones Web IEEG",
+      "description": "Suite de aplicaciones administrativas para el Instituto Electoral. Sistemas de gestión, portales ciudadanos y dashboards con Angular, React y .NET.",
+      "tags": ["Angular", "React", ".NET", "SQL Server", "AWS"]
+    }
+  },
+  "demos": {
+    "title": "Demos Interactivos",
+    "subtitle": "Prueba mis habilidades en vivo",
+    "terminal": {
+      "title": "Terminal Interactiva",
+      "placeholder": "Escribe un comando (help para ver opciones)...",
+      "welcome": "Bienvenido al portfolio de Oscar — escribe 'help' para ver comandos disponibles.",
+      "notFound": "comando no encontrado. Escribe 'help' para ver opciones.",
+      "commands": {
+        "help": "Comandos disponibles: ls  skills  experience  whoami  clear",
+        "whoami": "Oscar Fabián Ruiz de Chávez — Full Stack Developer\nGuanajuato, México | oscar.rdcm@gmail.com",
+        "ls": "about.txt    skills/    experience/    projects/    contact.txt",
+        "skills": "Frontend:  Angular  React  TypeScript  JavaScript\nBackend:   .NET C#  Python  REST APIs\nDB:        SQL Server  PostgreSQL  MariaDB\nCloud:     AWS  Docker  Linux  Nginx\nAI:        Ollama  spaCy  OpenAI  Claude",
+        "experience": "2020-Presente  IEEG — Ingeniero de Desarrollo de Sistemas\n2024-2025      Neoris — Cemex Go Frontend Developer"
+      }
+    },
+    "codeSnippet": {
+      "title": "Pipeline IA — Email Automation",
+      "language": "python"
+    },
+    "techRadar": {
+      "title": "Tech Radar",
+      "adopt": "Adoptar",
+      "trial": "Probar",
+      "assess": "Evaluar",
+      "hold": "Pausar"
+    }
+  },
+  "contact": {
+    "title": "Contacto",
+    "subtitle": "Hablemos de tu próximo proyecto",
+    "nameLabel": "Nombre",
+    "namePlaceholder": "Tu nombre",
+    "emailLabel": "Correo electrónico",
+    "emailPlaceholder": "tu@correo.com",
+    "messageLabel": "Mensaje",
+    "messagePlaceholder": "Cuéntame sobre tu proyecto...",
+    "sendButton": "Enviar mensaje",
+    "email": "oscar.rdcm@gmail.com",
+    "location": "Guanajuato, México",
+    "linkedin": "oscar-fabian-ruiz-de-chavez-munoz",
+    "github": "oskato2"
+  },
+  "footer": {
+    "built": "Construido con React + Vite + Framer Motion",
+    "rights": "© 2026 Oscar Fabián Ruiz de Chávez. Todos los derechos reservados."
+  }
+}

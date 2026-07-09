@@ -1,0 +1,159 @@
+{
+  "issuers": [
+    {
+      "id": "anthropic",
+      "name": "Anthropic",
+      "color": "#d97706",
+      "certs": [
+        {
+          "id": "claude-code-action",
+          "title": { "es": "Claude Code in Action", "en": "Claude Code in Action" },
+          "year": 2026,
+          "pdf": "/portafolio/assets/Certificados%20Anthropic/anthropic-claude-code-action.pdf",
+          "verify": "https://verify.skilljar.com/c/opgop4cqydq2"
+        },
+        {
+          "id": "claude-cowork",
+          "title": { "es": "Introduction to Claude Cowork", "en": "Introduction to Claude Cowork" },
+          "year": 2026,
+          "pdf": "/portafolio/assets/Certificados%20Anthropic/anthropic-claude-cowork.pdf",
+          "verify": "https://verify.skilljar.com/c/cic629e8s6ph"
+        },
+        {
+          "id": "claude-101",
+          "title": { "es": "Claude 101", "en": "Claude 101" },
+          "year": 2026,
+          "pdf": "/portafolio/assets/Certificados%20Anthropic/anthropic-claude-101.pdf",
+          "verify": "https://verify.skilljar.com/c/d27rvi6s3ddx"
+        },
+        {
+          "id": "cert-p37734kzf97b",
+          "title": { "es": "Claude with the Anthropic API", "en": "Claude with the Anthropic API" },
+          "year": 2026,
+          "pdf": "/portafolio/assets/Certificados%20Anthropic/anthropic-cert-p37734kzf97b.pdf",
+          "verify": "https://verify.skilljar.com/c/p37734kzf97b"
+        },
+        {
+          "id": "cert-qrs65h5b2jhp",
+          "title": { "es": "AI Fluency Framework & Foundations", "en": "AI Fluency Framework & Foundations" },
+          "year": 2026,
+          "pdf": "/portafolio/assets/Certificados%20Anthropic/anthropic-cert-qrs65h5b2jhp.pdf",
+          "verify": "https://verify.skilljar.com/c/qrs65h5b2jhp"
+        },
+        {
+          "id": "cert-to4dpyrzkk7q",
+          "title": { "es": "AI Fluency for Educators", "en": "AI Fluency for Educators" },
+          "year": 2026,
+          "pdf": "/portafolio/assets/Certificados%20Anthropic/anthropic-cert-to4dpyrzkk7q.pdf",
+          "verify": "https://verify.skilljar.com/c/to4dpyrzkk7q"
+        },
+        {
+          "id": "mcp",
+          "title": { "es": "Introduction to Model Context Protocol", "en": "Introduction to Model Context Protocol" },
+          "year": 2026,
+          "pdf": "/portafolio/assets/Certificados%20Anthropic/anthropic-mcp.pdf",
+          "verify": "https://verify.skilljar.com/c/n84fvfryadwo"
+        }
+      ]
+    },
+    {
+      "id": "neoris",
+      "name": "Neoris",
+      "color": "#00d4ff",
+      "certs": [
+        {
+          "id": "neoris-analisis",
+          "title": { "es": "Análisis Dinámico (Revisión de Código Dinámico)", "en": "Dynamic Analysis (Dynamic Code Review)" },
+          "year": 2024,
+          "pdf": "/portafolio/assets/Certificados%20Neoris/neoris-analisis-dinamico.pdf"
+        },
+        {
+          "id": "neoris-concientizacion",
+          "title": { "es": "Concientización General en Seguridad de Información v3.0", "en": "General Information Security Awareness v3.0" },
+          "year": 2024,
+          "pdf": "/portafolio/assets/Certificados%20Neoris/neoris-concientizacion-seguridad.pdf"
+        },
+        {
+          "id": "neoris-gdpr",
+          "title": { "es": "GDPR — Reglamento General de Protección de Datos", "en": "GDPR — General Data Protection Regulation" },
+          "year": 2024,
+          "pdf": "/portafolio/assets/Certificados%20Neoris/neoris-gdpr.pdf"
+        },
+        {
+          "id": "neoris-metodologia",
+          "title": { "es": "Metodología de Desarrollo de Proyectos de Software", "en": "Software Project Development Methodology" },
+          "year": 2024,
+          "pdf": "/portafolio/assets/Certificados%20Neoris/neoris-metodologia-proyectos.pdf"
+        },
+        {
+          "id": "neoris-owasp",
+          "title": { "es": "OWASP Top 10 (2021)", "en": "OWASP Top 10 (2021)" },
+          "year": 2024,
+          "pdf": "/portafolio/assets/Certificados%20Neoris/neoris-owasp-top10.pdf"
+        },
+        {
+          "id": "neoris-pci",
+          "title": { "es": "Payment Card Industry — Data Security Standard (PCI-DSS)", "en": "Payment Card Industry — Data Security Standard (PCI-DSS)" },
+          "year": 2024,
+          "pdf": "/portafolio/assets/Certificados%20Neoris/neoris-pci-dss.pdf"
+        },
+        {
+          "id": "neoris-privacidad",
+          "title": { "es": "Privacidad de Datos Personales v2.0", "en": "Personal Data Privacy v2.0" },
+          "year": 2024,
+          "pdf": "/portafolio/assets/Certificados%20Neoris/neoris-privacidad-datos.pdf"
+        },
+        {
+          "id": "neoris-ssdlc",
+          "title": { "es": "Proceso de Desarrollo Seguro NEORIS SSDLC", "en": "NEORIS Secure Development Process SSDLC" },
+          "year": 2024,
+          "pdf": "/portafolio/assets/Certificados%20Neoris/neoris-ssdlc.pdf"
+        },
+        {
+          "id": "neoris-secure-coding",
+          "title": { "es": "Secure Coding Practices", "en": "Secure Coding Practices" },
+          "year": 2024,
+          "pdf": "/portafolio/assets/Certificados%20Neoris/neoris-secure-coding.pdf"
+        }
+      ]
+    },
+    {
+      "id": "azure",
+      "name": "Microsoft Azure",
+      "color": "#0078d4",
+      "certs": [
+        {
+          "id": "azure-fundamentals",
+          "title": { "es": "Azure Fundamentals (AZ-900)", "en": "Azure Fundamentals (AZ-900)" },
+          "year": 2024,
+          "pdf": "/portafolio/assets/certificado%20azure/azure-fundamentals.pdf"
+        }
+      ]
+    },
+    {
+      "id": "cisco",
+      "name": "Cisco",
+      "color": "#049fd9",
+      "certs": [
+        {
+          "id": "cisco-ccna1",
+          "title": { "es": "CCNA 1: Introduction to Networks", "en": "CCNA 1: Introduction to Networks" },
+          "year": 2014,
+          "pdf": "/portafolio/assets/Certificado%20Cisco/cisco-ccna1-certificate.pdf"
+        },
+        {
+          "id": "cisco-ccna2",
+          "title": { "es": "CCNA 2: Routing & Switching Essentials", "en": "CCNA 2: Routing & Switching Essentials" },
+          "year": 2015,
+          "pdf": "/portafolio/assets/Certificado%20Cisco/cisco-ccna2-certificate.pdf"
+        },
+        {
+          "id": "cisco-ite",
+          "title": { "es": "IT Essentials (ITE)", "en": "IT Essentials (ITE)" },
+          "year": 2014,
+          "pdf": "/portafolio/assets/Certificado%20Cisco/cisco-ite-certificate.pdf"
+        }
+      ]
+    }
+  ]
+}

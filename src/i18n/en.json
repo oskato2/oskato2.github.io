@@ -1,0 +1,172 @@
+{
+  "nav": {
+    "about": "About",
+    "skills": "Skills",
+    "experience": "Experience",
+    "projects": "Projects",
+    "achievements": "Achievements",
+    "certifications": "Certifications",
+    "demos": "Demos",
+    "contact": "Contact",
+    "downloadCV": "Download CV"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Oscar Fabián Ruiz de Chávez",
+    "taglines": [
+      "Full Stack Developer",
+      "Systems Engineer",
+      "AI Automation Builder",
+      "Angular + React + .NET",
+      "6 Years of Real Solutions"
+    ],
+    "intro": "I build robust web applications and intelligent automation solutions. Specialized in Angular, React and .NET, with hands-on experience applying AI to real-world processes.",
+    "ctaCV": "Download CV",
+    "ctaContact": "Contact Me",
+    "location": "Guanajuato, Mexico",
+    "scrollDown": "Scroll"
+  },
+  "about": {
+    "title": "About Me",
+    "bio": "I'm a Systems Development Engineer with 6+ years of experience building web applications for both public and private sectors. I've developed critical electoral systems at IEEG and contributed to the global Cemex Go platform at Neoris. I'm passionate about intelligent automation and applying local LLMs to solve real business problems.",
+    "stats": {
+      "experience": "years of exp.",
+      "experienceVal": "6+",
+      "companies": "companies",
+      "companiesVal": "2",
+      "projects": "projects",
+      "projectsVal": "10+",
+      "languages": "languages",
+      "languagesVal": "2"
+    },
+    "photoAlt": "Oscar Fabián"
+  },
+  "skills": {
+    "title": "Skills",
+    "subtitle": "Technologies I work with",
+    "categories": {
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "databases": "Databases",
+      "cloud": "Cloud & DevOps",
+      "ai": "AI & Automation",
+      "tools": "Tools"
+    }
+  },
+  "experience": {
+    "title": "Experience",
+    "subtitle": "My professional journey",
+    "present": "Present",
+    "ieeg": {
+      "role": "Systems Development Engineer",
+      "company": "Electoral Institute of the State of Guanajuato",
+      "companyShort": "IEEG",
+      "period": "2020 — Present",
+      "location": "Guanajuato, Mexico",
+      "description": "Developing web applications for electoral and administrative processes. AI-powered workflow automation, Unity data visualization, and AWS infrastructure management.",
+      "highlights": [
+        "Email automation with AI (Ollama + spaCy + ticket generation)",
+        "Data visualization apps in Unity",
+        "Development with Angular, React, .NET C#, TypeScript",
+        "SQL Server, PostgreSQL, MariaDB databases",
+        "Infrastructure on AWS EC2, Docker, Linux, Nginx"
+      ]
+    },
+    "freelance": {
+      "role": "Freelance Web Developer",
+      "company": "Freelance",
+      "companyShort": "Freelance",
+      "period": "2016 — 2019",
+      "location": "Mexico",
+      "description": "Development and maintenance of client websites with a focus on PHP and WordPress.",
+      "highlights": [
+        "Development and maintenance of PHP and WordPress-based websites",
+        "Implementation of new features and customization of themes and plugins",
+        "Administration and optimization of web services to improve performance and availability",
+        "Bug fixes, security updates and technical support for clients"
+      ]
+    },
+    "neoris": {
+      "role": "Senior Frontend Developer",
+      "company": "Neoris — Cemex Go Project",
+      "companyShort": "Neoris",
+      "period": "2024 — 2025",
+      "location": "Remote / Mexico",
+      "description": "Built reusable Angular components and shared libraries for the global Cemex Go platform. REST API integration, Service Workers, and contribution to the Olivia chatbot.",
+      "highlights": [
+        "Reusable Angular components and libraries at global scale",
+        "Advanced REST API integration with HTTP Client",
+        "Service Workers and PWA features",
+        "Olivia chatbot with integrated NLP",
+        "International team collaboration with Git, Postman, Jira"
+      ]
+    }
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "What I've built",
+    "viewDemo": "View demo",
+    "emailAI": {
+      "title": "Email Automation with AI",
+      "description": "Automation pipeline that processes emails using a local LLM (Ollama), extracts entities with spaCy, and automatically generates support tickets.",
+      "tags": ["Python", "Ollama", "spaCy", "LLM", "Automation"]
+    },
+    "unityViz": {
+      "title": "Unity Data Visualization",
+      "description": "Interactive electoral data visualization apps built in Unity for IEEG. Dynamic charts and real-time visual reports.",
+      "tags": ["Unity", "C#", "Data Viz", "IEEG"]
+    },
+    "ieegApps": {
+      "title": "IEEG Web Applications",
+      "description": "Suite of administrative web apps for the Electoral Institute. Management systems, citizen portals and dashboards with Angular, React and .NET.",
+      "tags": ["Angular", "React", ".NET", "SQL Server", "AWS"]
+    }
+  },
+  "demos": {
+    "title": "Interactive Demos",
+    "subtitle": "Try my skills live",
+    "terminal": {
+      "title": "Interactive Terminal",
+      "placeholder": "Type a command (help for options)...",
+      "welcome": "Welcome to Oscar's portfolio — type 'help' to see available commands.",
+      "notFound": "command not found. Type 'help' for options.",
+      "commands": {
+        "help": "Available commands: ls  skills  experience  whoami  clear",
+        "whoami": "Oscar Fabián Ruiz de Chávez — Full Stack Developer\nGuanajuato, Mexico | oscar.rdcm@gmail.com",
+        "ls": "about.txt    skills/    experience/    projects/    contact.txt",
+        "skills": "Frontend:  Angular  React  TypeScript  JavaScript\nBackend:   .NET C#  Python  REST APIs\nDB:        SQL Server  PostgreSQL  MariaDB\nCloud:     AWS  Docker  Linux  Nginx\nAI:        Ollama  spaCy  OpenAI  Claude",
+        "experience": "2020-Present   IEEG — Systems Development Engineer\n2024-2025      Neoris — Cemex Go Frontend Developer"
+      }
+    },
+    "codeSnippet": {
+      "title": "AI Pipeline — Email Automation",
+      "language": "python"
+    },
+    "techRadar": {
+      "title": "Tech Radar",
+      "adopt": "Adopt",
+      "trial": "Trial",
+      "assess": "Assess",
+      "hold": "Hold"
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Let's talk about your next project",
+    "nameLabel": "Name",
+    "namePlaceholder": "Your name",
+    "emailLabel": "Email address",
+    "emailPlaceholder": "you@email.com",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Tell me about your project...",
+    "sendButton": "Send message",
+    "email": "oscar.rdcm@gmail.com",
+    "location": "Guanajuato, Mexico",
+    "linkedin": "oscar-fabian-ruiz-de-chavez-munoz",
+    "github": "oskato2"
+  },
+  "footer": {
+    "built": "Built with React + Vite + Framer Motion",
+    "rights": "© 2026 Oscar Fabián Ruiz de Chávez. All rights reserved."
+  }
+}

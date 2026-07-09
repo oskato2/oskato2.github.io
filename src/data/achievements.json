@@ -1,0 +1,394 @@
+{
+  "items": [
+    {
+      "id": "coporo",
+      "category": "university",
+      "year": "2016",
+      "title": {
+        "es": "Cóporo: Fragmento Escondido",
+        "en": "Cóporo: Hidden Fragment"
+      },
+      "subtitle": {
+        "es": "Recorrido Cóporo · Equipo Gearware · UTL Tech Day",
+        "en": "Cóporo Tour · Team Gearware · UTL Tech Day"
+      },
+      "description": {
+        "es": "Videojuego 3D desarrollado en Unity para difundir y preservar digitalmente la zona arqueológica del Cóporo — sitio prehispánico del período Clásico Tardío (600–900 d.C.) ubicado en San Felipe, Guanajuato, que marca la frontera entre Mesoamérica y Aridoamérica. El juego recrea el sitio tal como se veía en sus mejores años, usando texturas fotogramadas directamente de la zona arqueológica. El jugador encarna a un cazador que debe explorar el recinto y recolectar diferentes tipos de armas mientras descubre los espacios ceremoniales y defensivos del sitio. Jugable en PC con teclado, ratón o control.",
+        "en": "3D game developed in Unity to digitally preserve and promote the Cóporo archaeological zone — a Late Classic period site (600–900 AD) in San Felipe, Guanajuato, marking the cultural frontier between Mesoamerica and Aridoamerica. The game recreates the site as it looked in its prime, using textures photographed directly on-site. Players embody a hunter exploring the ceremonial and defensive grounds while collecting weapons. Playable on PC with keyboard, mouse, or gamepad."
+      },
+      "tech": ["Unity", "C#", "3D Modeling", "Fotogrametría", "PC", "Gamepad"],
+      "highlights": {
+        "es": [
+          "Texturas obtenidas directamente de la zona arqueológica del Cóporo",
+          "Recorrido virtual 3D en primera persona con mecánicas de juego",
+          "Presentado en XplorAPP Tech Day UTL en representación de la universidad",
+          "Llevó al equipo a entrevistas y eventos representando a Guanajuato",
+          "Premiado y reconocido por su valor en preservación digital del patrimonio cultural"
+        ],
+        "en": [
+          "Textures captured directly from the Cóporo archaeological site",
+          "Full 3D first-person virtual tour with gameplay mechanics",
+          "Presented at XplorAPP Tech Day UTL representing the university",
+          "Led team to interviews and events representing the state of Guanajuato",
+          "Recognized for its value in digital preservation of cultural heritage"
+        ]
+      },
+      "coverImage": "/portafolio/assets/Coporo Fragmento escondido/explicacion.jpg",
+      "gallery": [
+        "/portafolio/assets/Coporo Fragmento escondido/IMG_20161011_185251.jpg",
+        "/portafolio/assets/Coporo Fragmento escondido/IMG-20161012-WA0042.jpg",
+        "/portafolio/assets/Coporo Fragmento escondido/IMG-20161012-WA0047.jpg",
+        "/portafolio/assets/Coporo Fragmento escondido/IMG-20161012-WA0048.jpg",
+        "/portafolio/assets/Coporo Fragmento escondido/IMG-20161012-WA0062.jpg",
+        "/portafolio/assets/Coporo Fragmento escondido/IMG-20161012-WA0064.jpg",
+        "/portafolio/assets/Coporo Fragmento escondido/14572231_1103515606369208_3781983354119229695_n.jpg",
+        "/portafolio/assets/Coporo Fragmento escondido/14680889_673807239448255_6489370097166231885_o.jpg",
+        "/portafolio/assets/Coporo Fragmento escondido/14708166_1103514896369279_5356975676626147467_n.jpg"
+      ]
+    },
+    {
+      "id": "hackaton-agua",
+      "category": "hackathon",
+      "year": "2017",
+      "title": {
+        "es": "Agua Hackaton CFX — Finalistas",
+        "en": "Agua Hackaton CFX — Finalists"
+      },
+      "subtitle": {
+        "es": "CONAGUA + Centro Fox · Equipo Gear Ware · San Francisco del Rincón, Gto.",
+        "en": "CONAGUA + Centro Fox · Team Gear Ware · San Francisco del Rincón, Gto."
+      },
+      "description": {
+        "es": "Juego educativo interactivo para dispositivos móviles diseñado para enseñar a niños de escuelas el ciclo del agua, cómo reciclarla, cómo cuidarla sin desperdiciarla y cómo funciona la infraestructura hídrica que lleva el agua a los hogares — desde canales hasta plantas de tratamiento. Combina modo juego y modo aprendizaje para hacer la educación ambiental más efectiva y entretenida. El proyecto llegó a ser uno de los 3 finalistas del hackathon organizado por CONAGUA y el Centro Fox, con cobertura en medios de comunicación regionales.",
+        "en": "Interactive educational mobile game designed to teach school children about the water cycle, how to recycle water, how to conserve it, and how the water infrastructure that brings water to homes works — from canals to treatment plants. Combines a game mode and a learning mode to make environmental education more effective and fun. The project reached the finals as one of 3 finalists in the hackathon organized by CONAGUA and Centro Fox, with coverage in regional media."
+      },
+      "tech": ["Mobile", "Juego Educativo", "UX para niños", "Gamificación"],
+      "highlights": {
+        "es": [
+          "Finalistas — uno de los 3 equipos seleccionados entre todos los participantes",
+          "Constancia firmada por el Lic. Vicente Fox Quesada, Presidente del Centro Fox",
+          "Organizado por CONAGUA (Comisión Nacional del Agua) y Centro Fox",
+          "Cobertura en periódico: 'Cuidan recursos utilizando tecnología'",
+          "App educativa con modo juego + modo aprendizaje para niños de escuelas",
+          "Temática: ciclo del agua, reciclaje, conservación e infraestructura hídrica"
+        ],
+        "en": [
+          "Finalists — one of 3 teams selected from all participants",
+          "Certificate signed by Lic. Vicente Fox Quesada, President of Centro Fox",
+          "Organized by CONAGUA (National Water Commission) and Centro Fox",
+          "Press coverage: 'Cuidan recursos utilizando tecnología'",
+          "Educational app with game mode + learning mode for school children",
+          "Topics: water cycle, recycling, conservation and water infrastructure"
+        ]
+      },
+      "coverImage": "/portafolio/assets/hackaton agua/hackaton agua.jpg",
+      "gallery": [
+        "/portafolio/assets/hackaton agua/123.PNG"
+      ]
+    },
+    {
+      "id": "hackaton-sustentabilidad",
+      "category": "hackathon",
+      "year": "2017",
+      "title": {
+        "es": "Hackaton CFX — Ciudad Sustentable",
+        "en": "Hackaton CFX — Sustainable City"
+      },
+      "subtitle": {
+        "es": "Centro Fox + Campus Party México · San Francisco del Rincón, Gto.",
+        "en": "Centro Fox + Campus Party México · San Francisco del Rincón, Gto."
+      },
+      "description": {
+        "es": "Juego estilo SimCity donde el jugador construye y gestiona una ciudad ecológicamente sustentable, eligiendo entre distintas fuentes de energía limpia: solar, eólica, nuclear y más. El juego también muestra cómo los hogares pueden implementar estos sistemas a pequeña escala para mejorar su eficiencia energética y reducir su impacto ambiental. El objetivo: demostrar de forma interactiva que la sustentabilidad no es solo cosa de gobiernos — empieza en casa.",
+        "en": "SimCity-style game where the player builds and manages an ecologically sustainable city, choosing between different clean energy sources: solar, wind, nuclear and more. The game also shows how households can implement these systems at a small scale to improve energy efficiency and reduce environmental impact. The goal: demonstrate interactively that sustainability isn't just for governments — it starts at home."
+      },
+      "tech": ["Gamificación", "Simulación", "Energías renovables", "SimCity-style", "Educación ambiental"],
+      "highlights": {
+        "es": [
+          "Juego de simulación tipo SimCity con mecánicas de construcción de ciudad",
+          "Energías disponibles: solar, eólica, nuclear y sistemas domésticos",
+          "Organizado por Centro Fox y Campus Party México",
+          "Constancia firmada por Vicente Fox Quesada y Raúl Martin Porcel (Director Campus Party México)",
+          "Parte del ecosistema Campus Party — uno de los eventos tech más grandes de Latinoamérica"
+        ],
+        "en": [
+          "SimCity-style simulation game with city-building mechanics",
+          "Available energies: solar, wind, nuclear and home-scale systems",
+          "Organized by Centro Fox and Campus Party México",
+          "Certificate signed by Vicente Fox Quesada and Raúl Martin Porcel (Director Campus Party México)",
+          "Part of the Campus Party ecosystem — one of Latin America's largest tech events"
+        ]
+      },
+      "coverImage": "/portafolio/assets/hackaton sustentabilidad/hackaton sustenta.jpg",
+      "gallery": []
+    },
+    {
+      "id": "campus-party-2016",
+      "category": "event",
+      "year": "2016",
+      "title": {
+        "es": "Campus Party México 2016",
+        "en": "Campus Party México 2016"
+      },
+      "subtitle": {
+        "es": "7ª edición · Expo Guadalajara · 29 jun – 3 jul 2016 · Representando a la UTL",
+        "en": "7th edition · Expo Guadalajara · Jun 29 – Jul 3, 2016 · Representing UTL"
+      },
+      "description": {
+        "es": "Invitado con todos los gastos pagados para representar a la Universidad Tecnológica de León en el mayor evento de tecnología, creatividad, emprendimiento y cultura digital del mundo. Con más de 700 horas de contenido en 5 días, Campus Party México ostenta un récord Guinness. Participé en competencias de conocimiento de programación —ganando una de ellas—, torneos de videojuegos (League of Legends, Overwatch), un curso de ciberseguridad, y lideré espontáneamente a un grupo de desconocidos para construir una torre gigante de cajas de pizza: la primera vez que coordiné a personas que nunca había visto para lograr un objetivo en común.",
+        "en": "Invited with all expenses paid to represent Universidad Tecnológica de León at the world's largest technology, creativity, entrepreneurship and digital culture event. With over 700 hours of content in 5 days, Campus Party México holds a Guinness World Record. I participated in programming knowledge competitions — winning one —, gaming tournaments (League of Legends, Overwatch), a cybersecurity course, and spontaneously led a group of strangers to build a giant pizza box tower: the first time I coordinated people I had never met to achieve a shared goal."
+      },
+      "tech": ["Programación", "Ciberseguridad", "League of Legends", "Overwatch", "Networking"],
+      "highlights": {
+        "es": [
+          "Viaje con todos los gastos pagados representando a la UTL en Guadalajara",
+          "Evento con récord Guinness World Records — el mayor evento tech del mundo",
+          "Ganador de competencia de conocimiento de programación",
+          "Curso de ciberseguridad en el evento",
+          "Torneos de videojuegos: League of Legends y Overwatch",
+          "Liderazgo espontáneo: organizó a desconocidos para construir una torre de cajas de pizza"
+        ],
+        "en": [
+          "All-expenses-paid trip representing UTL in Guadalajara",
+          "Guinness World Records event — the world's largest tech event",
+          "Winner of a programming knowledge competition",
+          "Cybersecurity course at the event",
+          "Gaming tournaments: League of Legends and Overwatch",
+          "Spontaneous leadership: organized strangers to build a giant pizza box tower"
+        ]
+      },
+      "certificate": "/portafolio/assets/campus party 2016/campus 2016.pdf",
+      "gallery": []
+    },
+    {
+      "id": "campus-party-2017",
+      "category": "event",
+      "year": "2017",
+      "title": {
+        "es": "Campus Party México 2017",
+        "en": "Campus Party México 2017"
+      },
+      "subtitle": {
+        "es": "8ª edición · Expo Guadalajara · 5 – 9 jul 2017",
+        "en": "8th edition · Expo Guadalajara · Jul 5 – 9, 2017"
+      },
+      "description": {
+        "es": "Segunda participación en Campus Party, esta vez con enfoque más técnico y didáctico. Asistí a cursos de programación en Java, Python y PHP, ciberseguridad, y tuve la oportunidad única de armar desde cero una computadora con los componentes top de gama de la época — aprendiendo de primera mano arquitectura de hardware, selección de componentes y ensamble profesional.",
+        "en": "Second participation at Campus Party, this time with a more technical and educational focus. Attended programming courses in Java, Python and PHP, cybersecurity, and had the unique opportunity to assemble a computer from scratch using top-of-the-line components of the era — learning first-hand about hardware architecture, component selection and professional assembly."
+      },
+      "tech": ["Java", "Python", "PHP", "Ciberseguridad", "Hardware", "Ensamble de PC"],
+      "highlights": {
+        "es": [
+          "Cursos de programación: Java, Python y PHP",
+          "Curso de ciberseguridad",
+          "Ensamble de PC con componentes top de la época desde cero",
+          "Más de 700 horas de contenido técnico en 5 días",
+          "8ª edición del mayor evento tech del mundo — Expo Guadalajara"
+        ],
+        "en": [
+          "Programming courses: Java, Python and PHP",
+          "Cybersecurity course",
+          "Built a PC from scratch with top-tier components of the era",
+          "Over 700 hours of technical content in 5 days",
+          "8th edition of the world's largest tech event — Expo Guadalajara"
+        ]
+      },
+      "certificate": "/portafolio/assets/campus party 2017/campus 2017.pdf",
+      "gallery": []
+    },
+    {
+      "id": "lideres-emprendimiento",
+      "category": "event",
+      "year": "2018",
+      "title": {
+        "es": "Líderes Impulsores del Emprendimiento en León",
+        "en": "Entrepreneurship Leaders Program — León"
+      },
+      "subtitle": {
+        "es": "Incubajío A.C. + Municipio de León · León, Guanajuato · Septiembre 2018",
+        "en": "Incubajío A.C. + City of León · León, Guanajuato · September 2018"
+      },
+      "description": {
+        "es": "Programa de formación en emprendimiento e innovación impulsado por el gobierno de la ciudad de León a través de Incubajío A.C. Seleccionado para participar en cursos de apertura de empresas, generación de ideas de negocio, liderazgo y motivación emprendedora, con el objetivo de formar una nueva generación de líderes que impulsen el desarrollo económico y tecnológico de León, Guanajuato.",
+        "en": "Entrepreneurship and innovation training program promoted by the city government of León through Incubajío A.C. Selected to participate in business startup courses, idea generation, leadership and entrepreneurial motivation, with the goal of building a new generation of leaders to drive economic and technological development in León, Guanajuato."
+      },
+      "tech": ["Emprendimiento", "Liderazgo", "Innovación", "Desarrollo de negocios"],
+      "highlights": {
+        "es": [
+          "Seleccionado por invitación del gobierno de la ciudad de León",
+          "Programa impartido por Incubajío A.C. — incubadora de empresas de Guanajuato",
+          "Formación en apertura de empresas, ideación y liderazgo emprendedor",
+          "Constancia firmada por el Director General de Incubajío A.C.",
+          "Red de contactos con jóvenes emprendedores de la región"
+        ],
+        "en": [
+          "Selected by invitation from the city government of León",
+          "Program delivered by Incubajío A.C. — Guanajuato business incubator",
+          "Training in business creation, ideation and entrepreneurial leadership",
+          "Certificate signed by the Director General of Incubajío A.C.",
+          "Built a network with young entrepreneurs from the region"
+        ]
+      },
+      "coverImage": "/portafolio/assets/lideres impusores del emprendimiento en leon/image002.jpg",
+      "gallery": [
+        "/portafolio/assets/lideres impusores del emprendimiento en leon/IMG-20180901-WA0006.jpg"
+      ]
+    },
+    {
+      "id": "platica-epic-games",
+      "category": "event",
+      "year": "2019",
+      "title": {
+        "es": "Plática con Veterano de Epic Games",
+        "en": "Talk with Epic Games Veteran"
+      },
+      "subtitle": {
+        "es": "Unreal Engine · Gears of War · Fortnite · UTL, León, Guanajuato",
+        "en": "Unreal Engine · Gears of War · Fortnite · UTL, León, Guanajuato"
+      },
+      "description": {
+        "es": "Un amigo logró contactar a un desarrollador veterano de Epic Games — pionero en el desarrollo de Gears of War y uno de los primeros en trabajar en la creación de Fortnite. Organizamos y apoyamos en la logística del evento para llevarlo a la Universidad Tecnológica de León, donde compartió su experiencia en la industria del desarrollo de videojuegos AAA, el uso de Unreal Engine y el camino detrás de dos de los títulos más icónicos de la historia reciente de los videojuegos.",
+        "en": "A friend managed to contact a veteran developer from Epic Games — a pioneer in the development of Gears of War and one of the first people to work on the creation of Fortnite. We organized and supported the event logistics to bring him to Universidad Tecnológica de León, where he shared his experience in AAA game development, Unreal Engine, and the journey behind two of the most iconic titles in recent gaming history."
+      },
+      "tech": ["Unreal Engine", "C++", "Game Development AAA", "Epic Games", "Fortnite", "Gears of War"],
+      "highlights": {
+        "es": [
+          "Contacto y organización de la visita de un veterano de Epic Games a la UTL",
+          "El ponente participó en el desarrollo de Gears of War y los inicios de Fortnite",
+          "Plática sobre desarrollo de videojuegos AAA y Unreal Engine",
+          "Evento organizado por estudiantes para estudiantes de la universidad",
+          "Networking directo con un desarrollador de la industria global de videojuegos"
+        ],
+        "en": [
+          "Organized and coordinated the visit of an Epic Games veteran to UTL",
+          "Speaker participated in the development of Gears of War and early Fortnite",
+          "Talk on AAA game development and Unreal Engine",
+          "Student-organized event for the university community",
+          "Direct networking with a developer from the global video game industry"
+        ]
+      },
+      "coverImage": "/portafolio/assets/platica epic games/58576615_2203730703041681_4012745815318593536_n.jpg",
+      "gallery": []
+    },
+    {
+      "id": "elecciones-2021",
+      "category": "work",
+      "year": "2021",
+      "title": {
+        "es": "PREP Elecciones Guanajuato 2021 — Suite Completa",
+        "en": "PREP Guanajuato Elections 2021 — Full Suite"
+      },
+      "subtitle": {
+        "es": "IEEG · Proceso Electoral 2020-2021 · 6 de junio de 2021",
+        "en": "IEEG · Electoral Process 2020-2021 · June 6, 2021"
+      },
+      "description": {
+        "es": "Suite completa de sistemas y soluciones tecnológicas desarrolladas para el Programa de Resultados Electorales Preliminares (PREP) de Guanajuato 2021. Incluye múltiples proyectos: visualizador de datos electorales en tiempo real con Unity desplegado en kioscos físicos y pantallas del centro de control; app móvil con realidad aumentada para consulta de resultados en vivo; sistema dealer de impresión de conteo de votos desarrollado en Python (con testing y auditoría); configuración de dispositivos móviles para personal de casillas; diseño de documentos y materiales oficiales; atención directa a representantes de partidos políticos; y video interactivo de pantalla de espera para el instituto.",
+        "en": "Full suite of systems and technology solutions developed for the Preliminary Electoral Results Program (PREP) of Guanajuato 2021. Includes multiple projects: real-time electoral data visualizer in Unity deployed on physical kiosks and control room screens; augmented reality mobile app for live results; Python-based vote count print dealer system (with testing and auditing); mobile device configuration for polling station staff; design of official documents and materials; direct service to political party representatives; and an interactive waiting screen video for the institute."
+      },
+      "tech": ["Unity", "C#", "Python", "Realidad Aumentada", "PREP", "Data Viz", "Testing", "Diseño oficial"],
+      "highlights": {
+        "es": [
+          "Visualizador 3D en Unity desplegado en kioscos físicos y sala de control del IEEG — transmitido en medios en vivo",
+          "App móvil con realidad aumentada mostrando resultados electorales en tiempo real",
+          "Sistema dealer de impresión de conteo de votos en Python — testing y auditoría de sistemas",
+          "Sistema dealer conteo de votos en Python",
+          "Ciberseguridad",
+          "testing y auditoría de sistemas",
+          "Configuración de dispositivos móviles para representantes en casillas del estado",
+          "Diseño y producción de documentos y artículos oficiales del proceso electoral",
+          "Atención directa a representantes de todos los partidos políticos",
+          "Video interactivo de pantalla de espera para pantallas institucionales del IEEG",
+          "Cobertura de medios: El Sol de León, Periódico AM y otros medios regionales"
+        ],
+        "en": [
+          "3D Unity visualizer deployed on physical kiosks and IEEG control room — broadcast live by media",
+          "Augmented reality mobile app showing real-time electoral results",
+          "Python-based vote count print dealer — system testing and auditing",
+          "Vote count print dealer system in Python",
+          "Cybersecurity",
+          "System testing and auditing",
+          "Mobile device configuration for polling station representatives across the state",
+          "Design and production of official documents and materials for the electoral process",
+          "Direct service to representatives of all political parties",
+          "Interactive waiting screen video for IEEG institutional displays",
+          "Media coverage: El Sol de León, Periódico AM and other regional outlets"
+        ]
+      },
+      "coverImage": "/portafolio/assets/elecciones 2021/prep-guanajuato-cierrra-2-1024x681.jpeg",
+      "gallery": [
+        "/portafolio/assets/elecciones 2021/WhatsApp Image 2021-06-06 at 8.54.45 PM.jpeg",
+        "/portafolio/assets/elecciones 2021/WhatsApp Image 2026-07-09 at 10.50.52 AM (4).jpeg",
+        "/portafolio/assets/elecciones 2021/WhatsApp Image 2026-07-09 at 10.50.52 AM (5).jpeg",
+        "/portafolio/assets/elecciones 2021/WhatsApp Image 2026-07-09 at 10.50.52 AM (3).jpeg",
+        "/portafolio/assets/elecciones 2021/WhatsApp Image 2026-07-09 at 10.50.52 AM.jpeg",
+        "/portafolio/assets/elecciones 2021/WhatsApp Image 2026-07-09 at 10.50.52 AM (6).jpeg",
+        "/portafolio/assets/elecciones 2021/WhatsApp Image 2026-07-09 at 10.50.52 AM (7).jpeg",
+        "/portafolio/assets/elecciones 2021/WhatsApp Image 2026-07-09 at 10.50.52 AM (8).jpeg",
+        "/portafolio/assets/elecciones 2021/WhatsApp Image 2026-07-09 at 10.50.51 AM (9).jpeg",
+        "/portafolio/assets/elecciones 2021/WhatsApp Image 2026-07-09 at 10.50.51 AM (8).jpeg",
+        "/portafolio/assets/elecciones 2021/WhatsApp Image 2026-07-09 at 10.52.24 AM.jpeg",
+        "/portafolio/assets/elecciones 2021/WhatsApp Image 2026-07-09 at 10.50.52 AM (1).jpeg",
+        "/portafolio/assets/elecciones 2021/WhatsApp Image 2021-06-03 at 11.14.33 PM.jpeg",
+        "/portafolio/assets/elecciones 2021/WhatsApp Image 2021-06-07 at 3.06.44 PM.jpeg",
+        "/portafolio/assets/elecciones 2021/WhatsApp Image 2021-06-07 at 3.06.47 PM.jpeg",
+        "/portafolio/assets/elecciones 2021/equipo.jpeg",
+        "/portafolio/assets/elecciones 2021/Captura.PNG",
+        "/portafolio/assets/elecciones 2021/Rechaza-Morena-resultados-en-cuatro-municipios-de-Guanajuato.jpg",
+        "/portafolio/assets/elecciones 2021/Rechaza-Morena-resultados-en-cuatro-municipios-de-Guanajuato (2).jpeg",
+        "/portafolio/assets/elecciones 2021/1.jpeg",
+        "/portafolio/assets/elecciones 2021/2.jpeg",
+        "/portafolio/assets/elecciones 2021/3.jpeg"
+      ]
+    },
+    {
+      "id": "elecciones-2024",
+      "category": "work",
+      "year": "2024",
+      "title": {
+        "es": "PREP Elecciones Guanajuato 2024 — Suite Completa",
+        "en": "PREP Guanajuato Elections 2024 — Full Suite"
+      },
+      "subtitle": {
+        "es": "IEEG · Proceso Electoral 2023-2024 · \"Tu voto deja huella\"",
+        "en": "IEEG · Electoral Process 2023-2024 · \"Tu voto deja huella\""
+      },
+      "description": {
+        "es": "Suite completa de sistemas, diseños y soluciones tecnológicas para el PREP Guanajuato 2024, bajo la campaña visual 'Tu voto deja huella'. Incluye: diseño de pantallas, stands y materiales visuales para partidos políticos; diseño de imágenes institucionales; creación de base de datos de más de 25,000 casillas con sus respectivas actas y hojas de votación para ensayos electorales; pipeline automatizado de impresión de actas combinando un script Python con Adobe Illustrator; y monitoreo continuo del estado de las páginas web institucionales del IEEG durante el proceso electoral.",
+        "en": "Complete suite of systems, designs and technology solutions for PREP Guanajuato 2024, under the visual campaign 'Tu voto deja huella'. Includes: design of screens, stands and visual materials for political parties; institutional image design; creation of a database of over 25,000 polling stations with their respective records and ballots for electoral rehearsals; automated actas print pipeline combining a Python script with Adobe Illustrator; and continuous monitoring of IEEG's institutional websites throughout the electoral process."
+      },
+      "tech": ["Python", "Adobe Illustrator", "SQL", "Unity", "Diseño institucional", "Automatización", "Monitoreo web"],
+      "highlights": {
+        "es": [
+          "Diseño de pantallas, stands físicos y materiales visuales para partidos políticos",
+          "Diseño de identidad visual institucional para el PREP 2024 — campaña 'Tu voto deja huella'",
+          "Base de datos de más de 25,000 casillas con actas y hojas de votación para ensayos",
+          "Pipeline de impresión de actas: script Python + Adobe Illustrator — automatización completa",
+          "Monitoreo continuo del estado de páginas institucionales del IEEG durante el proceso",
+          "Instalación de 3 paneles físicos con pantallas táctiles mostrando el visualizador en vivo"
+        ],
+        "en": [
+          "Design of screens, physical stands and visual materials for political parties",
+          "Institutional visual identity design for PREP 2024 — 'Tu voto deja huella' campaign",
+          "Database of over 25,000 polling stations with records and ballots for rehearsals",
+          "Actas print pipeline: Python script + Adobe Illustrator — full automation",
+          "Continuous monitoring of IEEG institutional website status during the process",
+          "Installation of 3 physical panels with touchscreens displaying the live visualizer"
+        ]
+      },
+      "coverImage": "/portafolio/assets/elecciones 2024/WhatsApp Image 2026-07-09 at 10.50.51 AM (1).jpeg",
+      "gallery": [
+        "/portafolio/assets/elecciones 2024/WhatsApp Image 2026-07-09 at 10.50.51 AM (4).jpeg",
+        "/portafolio/assets/elecciones 2024/WhatsApp Image 2026-07-09 at 10.50.52 AM (2).jpeg",
+        "/portafolio/assets/elecciones 2024/WhatsApp Image 2026-07-09 at 10.50.51 AM.jpeg",
+        "/portafolio/assets/elecciones 2024/WhatsApp Image 2026-07-09 at 10.50.51 AM (2).jpeg",
+        "/portafolio/assets/elecciones 2024/WhatsApp Image 2026-07-09 at 10.50.51 AM (3).jpeg",
+        "/portafolio/assets/elecciones 2024/WhatsApp Image 2026-07-09 at 10.50.51 AM (5).jpeg",
+        "/portafolio/assets/elecciones 2024/WhatsApp Image 2026-07-09 at 10.50.51 AM (6).jpeg",
+        "/portafolio/assets/elecciones 2024/WhatsApp Image 2026-07-09 at 10.50.51 AM (7).jpeg",
+        "/portafolio/assets/elecciones 2024/actas.jpeg",
+        "/portafolio/assets/elecciones 2024/WhatsApp Image 2026-07-09 at 10.50.50 AM (1).jpeg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap');
+
+@import "tailwindcss";
+
+:root {
+  --color-bg-primary: #0a0a0f;
+  --color-bg-surface: #0f0f1a;
+  --color-bg-card: #1a1a2e;
+  --color-border: #2a2a4a;
+  --color-neon-green: #00ff88;
+  --color-neon-blue: #00d4ff;
+  --color-neon-purple: #bf00ff;
+  --color-text-primary: #e2e8f0;
+  --color-text-muted: #94a3b8;
+  --glow-green: 0 0 20px rgba(0, 255, 136, 0.4);
+  --glow-blue: 0 0 20px rgba(0, 212, 255, 0.4);
+  --glow-purple: 0 0 20px rgba(191, 0, 255, 0.4);
+  --glass-bg: rgba(26, 26, 46, 0.6);
+  --glass-border: rgba(42, 42, 74, 0.8);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-bg-primary);
+  color: var(--color-text-primary);
+  font-family: 'Inter', sans-serif;
+  overflow-x: hidden;
+}
+
+.glass-card {
+  background: var(--glass-bg);
+  border: 1px solid var(--glass-border);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}
+
+.neon-green {
+  color: var(--color-neon-green);
+  text-shadow: var(--glow-green);
+}
+
+.neon-blue {
+  color: var(--color-neon-blue);
+  text-shadow: var(--glow-blue);
+}
+
+.neon-purple {
+  color: var(--color-neon-purple);
+  text-shadow: var(--glow-purple);
+}
+
+.section-padding {
+  padding: 5rem 1.5rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-bg-primary);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-neon-green);
+  border-radius: 3px;
+}
