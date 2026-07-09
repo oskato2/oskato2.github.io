@@ -12,7 +12,7 @@
   },
   "hero": {
     "greeting": "Hi, I'm",
-    "name": "Oscar Fabián Ruiz de Chávez",
+    "name": "Oscar Fabián Ruiz de Chávez Muñoz",
     "taglines": [
       "Full Stack Developer",
       "Systems Engineer",
@@ -134,7 +134,7 @@
       "notFound": "command not found. Type 'help' for options.",
       "commands": {
         "help": "Available commands: ls  skills  experience  whoami  clear",
-        "whoami": "Oscar Fabián Ruiz de Chávez — Full Stack Developer\nGuanajuato, Mexico | oscar.rdcm@gmail.com",
+        "whoami": "Oscar Fabián Ruiz de Chávez Muñoz — Full Stack Developer\nGuanajuato, Mexico | oscar.rdcm@gmail.com",
         "ls": "about.txt    skills/    experience/    projects/    contact.txt",
         "skills": "Frontend:  Angular  React  TypeScript  JavaScript\nBackend:   .NET C#  Python  REST APIs\nDB:        SQL Server  PostgreSQL  MariaDB\nCloud:     AWS  Docker  Linux  Nginx\nAI:        Ollama  spaCy  OpenAI  Claude",
         "experience": "2020-Present   IEEG — Systems Development Engineer\n2024-2025      Neoris — Cemex Go Frontend Developer"
@@ -169,6 +169,6 @@
   },
   "footer": {
     "built": "Built with React + Vite + Framer Motion",
-    "rights": "© 2026 Oscar Fabián Ruiz de Chávez. All rights reserved."
+    "rights": "© 2026 Oscar Fabián Ruiz de Chávez Muñoz. All rights reserved."
   }
 }
