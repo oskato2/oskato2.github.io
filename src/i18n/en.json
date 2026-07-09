@@ -106,6 +106,8 @@
     "title": "Projects",
     "subtitle": "What I've built",
     "viewDemo": "View demo",
+    "showHighlights": "▼ highlights",
+    "hideHighlights": "▲ less",
     "emailAI": {
       "title": "Email Automation with AI",
       "description": "Automation pipeline that processes emails using a local LLM (Ollama), extracts entities with spaCy, and automatically generates support tickets.",

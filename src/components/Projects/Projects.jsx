@@ -279,6 +279,7 @@ const projects = [
 
 function ProjectCard({ project, lang }) {
   const [open, setOpen] = useState(false)
+  const { t } = useTranslation()
   const color = project.color
 
   return (
@@ -333,7 +334,7 @@ function ProjectCard({ project, lang }) {
         onMouseEnter={e => e.currentTarget.style.background = `${color}18`}
         onMouseLeave={e => e.currentTarget.style.background = 'none'}
       >
-        {open ? '▲ menos' : '▼ highlights'}
+        {open ? t('projects.hideHighlights') : t('projects.showHighlights')}
       </button>
 
       {open && (

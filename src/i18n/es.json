@@ -106,6 +106,8 @@
     "title": "Proyectos",
     "subtitle": "Lo que he construido",
     "viewDemo": "Ver demo",
+    "showHighlights": "▼ detalles",
+    "hideHighlights": "▲ menos",
     "emailAI": {
       "title": "Automatización de Correos con IA",
       "description": "Pipeline de automatización que procesa correos usando un LLM local (Ollama), extrae entidades con spaCy y genera tickets de soporte automáticamente.",
